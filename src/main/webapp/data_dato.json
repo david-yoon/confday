@@ -1,0 +1,140 @@
+[
+	{
+		"venue": "CIKM - abstracts",
+		"area": "IR",
+		"link": "http://www.cikm2017.org/",
+		"deadline": "May 09, 2017 23:59 UTC+11"
+	},
+	{
+		"venue": "CIKM - paper",
+		"area": "IR",
+		"link": "http://www.cikm2017.org/",
+		"deadline": "May 16, 2017 23:59 UTC+11"
+	},	
+	{
+		"venue": "WWW - abstracts",
+		"area": "Web",
+		"link": "http://www2017.com.au/call-for-papers/",
+		"deadline": "October 19, 2016 23:59 UTC-10"
+	},
+	{
+		"venue": "WWW - paper",
+		"area": "Web",
+		"link": "http://www2017.com.au/call-for-papers/",
+		"deadline": "October 24, 2016 23:59 UTC-10"
+	},
+	{
+		"venue": "WWW - poster / WS",
+		"area": "Web",
+		"link": "http://www.www2017.com.au/call-for-papers/posters.php",
+		"deadline": "January 08, 2017 23:59 UTC-10"
+	},
+	{
+		"venue": "AAAI - abstracts",
+		"area": "AI",
+		"link": "http://www.aaai.org/Conferences/AAAI/2017",
+		"deadline": "September 9, 2016 23:59 UTC-10"
+	},
+	{
+		"venue": "AAAI - paper",
+		"area": "AI",
+		"link": "http://www.aaai.org/Conferences/AAAI/2017",
+		"deadline": "September 14, 2016 23:59 UTC-10"
+	},
+	{
+		"venue": "AAAI - WS",
+		"area": "AI",
+		"link": "http://www.aaai.org/Workshops/ws17.php",
+		"deadline": "October 21, 2016 23:59 UTC-10"
+	},	
+	{
+		"venue": "EACL 2017 - Short ",
+		"area": "CL",
+		"link": "http://eacl2017.org",
+		"deadline": "December 16, 2016 23:59 GMT"
+	},
+	{
+		"venue": "EACL 2017 - Long ",
+		"area": "CL",
+		"link": "http://eacl2017.org",
+		"deadline": "September 30, 2016 23:59 GMT"
+	},	
+	{
+		"venue": "SIGIR",
+		"area": "IR",
+		"deadline": "January 17, 2017",
+		"link": "http://sigir.org/sigir2017"
+	},
+	{
+		"venue": "EMNLP",
+		"area": "CL",
+		"deadline": "June 3, 2016, 23:59 GMT-12",
+		"link": "http://www.emnlp2016.net"
+	},
+	{
+		"venue": "COLING",
+		"area": "CL",
+		"deadline": "July 15, 2016, 23:59 GMT-8",
+		"link": "http://coling2016.anlp.jp"
+	},	
+	{
+		"venue": "CONLL / SIGNLL",
+		"area": "CL",
+		"deadline": "May 6, 2016, 23:59 GMT+2",
+		"link": "http://www.conll.org"
+	},
+	{
+		"venue": "IJCAI",
+		"area": "AI",
+		"deadline": "1/27/2016 23:59 UTC+12",
+		"link": "http://ijcai-16.org"
+	},
+	{
+		"venue": "ACL (long)",
+		"area": "CL",
+		"deadline": "18 March 2016 23:59 UTC-7",
+		"link": "http://acl2016.org/"
+	},
+	{
+		"venue": "ACL (short)",
+		"area": "CL",
+		"deadline": "29 February 2016 23:59 UTC-7",
+		"link": "http://acl2016.org/"
+	},
+	{
+		"venue": "NAACL-HLT (long & short)",
+		"area": "CL",
+		"deadline": "06 January 2016 23:59 UTC-08",
+		"link": "http://naacl.org/naacl-hlt-2016/"
+	},
+	{
+		"venue": "Interspeech 2016",
+		"area": "Speech",
+		"deadline": "01 February 2016 23:59 GMT",
+		"link": "http://www.interspeech2016.org/Papers"
+	},
+	{
+		"venue": "NIPS 2016",
+		"area": "ML",
+		"deadline": "20 May 2016 16:00 UTC",
+		"link": "https://nips.cc/Conferences/2016/"
+	},
+	{
+		"venue": "NIPS 2016 WS",
+		"area": "ML",
+		"deadline": "23 October 2016 23:59 PST",
+		"link": "http://letsdiscussnips2016.weebly.com/"
+	},
+	{
+		"venue": "ICML 2016",
+		"area": "ML",
+		"deadline": "5 February 2016 23:59 UTC",
+		"link": "http://icml.cc/2016/"
+	},
+	{
+		"venue": "ICLR 2017",
+		"area": "ML",
+		"deadline": "4 November 2016 17:00 EST",
+		"link": "http://www.iclr.cc/"
+	}
+]
